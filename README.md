@@ -3,6 +3,7 @@ Vale do Pavor - Landing Page
 Visão Geral
 --
 Esta landing page foi desenvolvida como proposta conceitual para o Vale do Pavor, um parque temático de terror fictício criado por estudantes do SENAI A. Jacob Lafer. O parque une adrenalina, suspense e terror em experiências imersivas, mas não existe na realidade. A página promove a ideia com design simples em HTML e CSS puro.
+
 ​
 --
 Funcionalidades
