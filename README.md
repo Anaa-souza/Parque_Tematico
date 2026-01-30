@@ -2,7 +2,7 @@
 ## 🩸 Landing Page — Parque Temático de Terror (Projeto Conceitual)
 
 <p align="center">
-  <img src="./assets/vale-do-pavor-capa.png" alt="Vale do Pavor - Parque Temático de Terror" width="100%">
+  <img src="capa.png" alt="Vale do Pavor - Parque Temático de Terror" width="100%">
 </p>
 
 <p align="center">
