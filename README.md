@@ -46,15 +46,11 @@ Projeto desenvolvido exclusivamente para fins <strong>educacionais e conceituais
 <h2 align="center">🗺️ Mapa Oficial do Vale</h2>
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/a7778cd3-f826-4c4c-bd5f-5d3bc72f3ab1"
-    alt="Mapa do Vale do Pavor"
-    style="
+  <img width="449" height="199" alt="image" src="https://github.com/user-attachments/assets/279a2a91-3b00-4766-91b1-2c1eb44bdf8f"
+ style="
       max-width: 95%;
       border-radius: 20px;
-      box-shadow: 0 30px 60px rgba(0,0,0,0.7);
-    "
-  />
+      box-shadow: 0 30px 60px rgba(0,0,0,0.7);" />
 </p>
 
 <p align="center">
