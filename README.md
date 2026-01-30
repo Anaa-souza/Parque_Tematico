@@ -46,7 +46,7 @@ Projeto desenvolvido exclusivamente para fins <strong>educacionais e conceituais
 <h2 align="center">🗺️ Mapa Oficial do Vale</h2>
 
 <p align="center">
-  <img width="559" height="299" alt="image" src="https://github.com/user-attachments/assets/279a2a91-3b00-4766-91b1-2c1eb44bdf8f"
+  <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/279a2a91-3b00-4766-91b1-2c1eb44bdf8f"
  style="
       max-width: 95%;
       border-radius: 20px;
