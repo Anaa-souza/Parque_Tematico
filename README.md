@@ -28,12 +28,18 @@ O <strong>Vale do Pavor</strong> é um <strong>parque temático de terror fictí
 <strong>SENAI A. Jacob Lafer</strong>.
 </p>
 
-Mais do que uma simples landing page, este projeto foi concebido como uma **experiência imersiva**, explorando o terror psicológico, o suspense visual e a narrativa sombria como elementos centrais do design.
+<p align="center">
+Mais do que uma simples landing page, este projeto foi concebido como uma <strong>experiência imersiva</strong>, explorando o terror psicológico, o suspense visual e a narrativa sombria como elementos centrais do design.
+</p>
 
-O objetivo é simular a identidade visual e a comunicação de um parque real, utilizando conceitos de **UX, UI e ambientação temática**, sempre mantendo o foco no impacto visual e na atmosfera de medo controlado.
+<p align="center">
+O objetivo é simular a identidade visual e a comunicação de um parque real, utilizando conceitos de <strong>UX, UI e ambientação temática</strong>, sempre mantendo o foco no impacto visual e na atmosfera de medo controlado.
+</p>
 
-> ❗ O parque **não existe na vida real**  
-> Projeto desenvolvido exclusivamente para fins **educacionais e conceituais**
+<blockquote align="center">
+❗ O parque <strong>não existe na vida real</strong><br>
+Projeto desenvolvido exclusivamente para fins <strong>educacionais e conceituais</strong>
+</blockquote>
 
 ---
 
@@ -60,17 +66,25 @@ indo do desconforto silencioso ao medo explícito.
 
 <h2 align="center">🧩 Funcionalidades da Landing Page</h2>
 
-✔️ **Seção de Atrações**  
+<p align="center">
+✔️ <strong>Seção de Atrações</strong><br>
 Apresentação visual das principais experiências de terror do parque.
+</p>
 
-✔️ **Sobre o Vale**  
+<p align="center">
+✔️ <strong>Sobre o Vale</strong><br>
 Contextualização da proposta, narrativa e identidade do projeto.
+</p>
 
-✔️ **Ingressos (Fictício)**  
+<p align="center">
+✔️ <strong>Ingressos (Fictício)</strong><br>
 Simulação de compra de ingressos e calendário de funcionamento.
+</p>
 
-✔️ **Design Imersivo**  
+<p align="center">
+✔️ <strong>Design Imersivo</strong><br>
 Layout pensado para reforçar o clima sombrio e cinematográfico.
+</p>
 
 ---
 
@@ -78,23 +92,31 @@ Layout pensado para reforçar o clima sombrio e cinematográfico.
 
 <h3>🛠️ Desenvolvimento Frontend</h3>
 
-- **HTML5**
-- **CSS3 (puro, sem JavaScript)**
+<ul>
+  <li><strong>HTML5</strong></li>
+  <li><strong>CSS3</strong> (puro, sem JavaScript)</li>
+</ul>
 
-<h3>🎨 Design & Ambientação</h3>
+<h3>🎨 Design & Planejamento</h3>
 
-- Imagens conceituais de terror  
-- Tipografia temática  
-- Paleta de cores sombria e contrastante  
-- Inspiração em parques de terror e cinema de horror  
+<ul>
+  <li><strong>Figma</strong> — prototipação e estrutura visual</li>
+  <li>Imagens conceituais de terror</li>
+  <li>Tipografia temática</li>
+  <li>Paleta de cores sombria e contrastante</li>
+  <li>Inspiração em parques de terror e cinema de horror</li>
+</ul>
 
 <h3>🚀 Publicação</h3>
 
-- GitHub Pages ou serviço similar
+<ul>
+  <li>GitHub Pages ou serviço similar</li>
+</ul>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
 </p>
 
 ---
@@ -102,7 +124,7 @@ Layout pensado para reforçar o clima sombrio e cinematográfico.
 <h2 align="center">🎨 Protótipo & Planejamento</h2>
 
 <p align="center">
-  O projeto foi previamente estruturado e planejado no Figma.
+O projeto foi previamente estruturado e planejado no Figma.
 </p>
 
 <p align="center">
@@ -133,4 +155,3 @@ Nem todos encontram a saída.
 <p align="center">
 👁️‍🗨️ <em>Projeto conceitual — SENAI A. Jacob Lafer</em>
 </p>
-
