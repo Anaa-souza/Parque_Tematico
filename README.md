@@ -2,9 +2,13 @@
 ## 🩸 Landing Page — Parque Temático de Terror (Projeto Conceitual)
 
 <p align="center">
- <img width="900" height="514" alt="capa" src="https://github.com/user-attachments/assets/ceba57f4-2ee0-43bd-ba55-2068c91156f9" />
-
+  <img 
+    src="https://github.com/user-attachments/assets/ceba57f4-2ee0-43bd-ba55-2068c91156f9"
+    alt="Vale do Pavor - Capa"
+    style="max-width: 100%; border-radius: 12px;"
+  />
 </p>
+
 
 <p align="center">
   <strong>⚠️ ATENÇÃO:</strong> Você está prestes a entrar em um lugar onde o medo é parte da experiência.
