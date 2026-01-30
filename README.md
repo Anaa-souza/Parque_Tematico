@@ -58,7 +58,7 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
   />
 </p>
 
-<h3 align="center">🩶 Regiões do Parque</h3>
+<h3 align="center">Regiões do Parque</h3>
 
 <p align="center">
 Cada área do Vale foi pensada para provocar sensações específicas — do desconforto silencioso ao medo explícito.
@@ -72,7 +72,7 @@ Cada área do Vale foi pensada para provocar sensações específicas — do des
       Onde o silêncio observa você.
     </td>
     <td align="center">
-      <img src="https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf" width="200" style="border-radius:12px;"><br>
+      <img<img width="1536" height="1024" alt="ChatGPT Image 30 de jan  de 2026, 12_12_53" src="https://github.com/user-attachments/assets/9e60eb4a-3d9f-4080-9b6f-e2ca3d32dec4" width="200" style="border-radius:12px;"><br>
       <strong> Carrossel Macabro</strong><br>
       A diversão nunca termina.
     </td>
