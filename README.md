@@ -1,57 +1,80 @@
 # 🎢 VALE DO PAVOR  
-### 🩸 Landing Page — Parque Temático de Terror (Projeto Conceitual)
+## 🩸 Landing Page — Parque Temático de Terror (Projeto Conceitual)
 
 <p align="center">
-  <img src="./assets/vale-do-pavor-banner.jpg" alt="Vale do Pavor - Parque de Terror" width="100%">
+  <img src="./assets/vale-do-pavor-capa.png" alt="Vale do Pavor - Parque Temático de Terror" width="100%">
 </p>
 
-> **Bem-vindo ao Vale do Pavor.**  
-> Aqui, o medo não é um efeito colateral — é o objetivo.
+<p align="center">
+  <strong>⚠️ ATENÇÃO:</strong> Você está prestes a entrar em um lugar onde o medo é parte da experiência.
+</p>
 
 ---
 
-## ☠️ Visão Geral
+## ☠️ Bem-vindo ao Vale do Pavor
 
-O **Vale do Pavor** é um **parque temático de terror fictício**, criado como projeto educacional por estudantes do **SENAI A. Jacob Lafer**.  
+O **Vale do Pavor** é um **parque temático de terror fictício**, criado como projeto educacional por estudantes do  
+**SENAI A. Jacob Lafer**.
 
-O projeto propõe uma **landing page imersiva**, com atmosfera sombria, narrativa visual intensa e foco total na experiência do usuário — tudo isso utilizando apenas **HTML5 e CSS3 puro**, sem JavaScript.
+Este projeto apresenta uma **landing page conceitual**, desenvolvida para explorar:
 
-> ⚠️ Este parque **não existe na vida real**.  
-> Projeto desenvolvido exclusivamente para fins acadêmicos.
+- 🎭 Terror psicológico  
+- 🎢 Adrenalina  
+- 🌫️ Suspense visual  
+- 🎬 Ambientação cinematográfica  
+
+Tudo isso utilizando **HTML5 e CSS3 puro**, sem JavaScript.
+
+> ❗ O parque **não existe na vida real**.  
+> Projeto desenvolvido exclusivamente para fins educacionais.
 
 ---
 
-## 🗺️ Mapa do Vale do Pavor
+## 🗺️ Mapa Oficial do Parque
 
 <p align="center">
-  <img src="./assets/mapa-vale-do-pavor.jpg" alt="Mapa do Vale do Pavor" width="90%">
+  <img src="./assets/mapa-vale-do-pavor.png" alt="Mapa do Vale do Pavor" width="95%">
 </p>
 
-### 🩶 Atrações do Parque
+### 🩶 Regiões do Vale do Pavor
 
-- 🏚️ **Mansão Assombrada** — onde o silêncio grita  
-- 🎠 **Carrossel Macabro** — diversão que nunca termina  
-- 🎡 **Roda Gigante do Inferno** — vista privilegiada do caos  
-- 🤡 **Manicômio dos Palhaços** — risadas que ecoam na mente  
-- 🧠 **Circo Psicótico** — espetáculo sem sanidade  
-- 🪚 **Labirinto da Motosserra** — encontre a saída… se conseguir  
-- 🪦 **Cemitério dos Condenados** — ninguém descansa em paz  
-- 🧟 **Pântano dos Zumbis** — algo se move sob a lama  
+- 🏚️ **Mansão Assombrada**  
+  Onde o silêncio observa você.
 
-Cada atração foi pensada para provocar **medo, tensão e adrenalina**, respeitando sempre o conceito de entretenimento seguro.
+- 🎠 **Carrossel Macabro**  
+  A volta nunca termina.
+
+- 🎡 **Roda Gigante do Inferno**  
+  A melhor vista… da perdição.
+
+- 🤡 **Manicômio dos Palhaços**  
+  Rir é obrigatório. Sobreviver, opcional.
+
+- 🧠 **Circo Psicótico**  
+  Um espetáculo sem sanidade.
+
+- 🪚 **Labirinto da Motosserra**  
+  Cada curva pode ser a última.
+
+- 🪦 **Cemitério dos Condenados**  
+  Aqui, ninguém descansa em paz.
+
+- 🧟 **Pântano dos Zumbis**  
+  Algo se move sob a lama.
 
 ---
 
 ## 🧩 Funcionalidades da Landing Page
 
-✔️ **Seção de Atrações**  
-Galeria visual apresentando as experiências do parque.
+✔️ **Atrações**  
+Galeria conceitual apresentando as experiências de terror do parque.
 
 ✔️ **Sobre o Parque**  
-Texto institucional com proposta, narrativa e conceito.
+Descrição da proposta, narrativa e identidade do Vale do Pavor.
 
-✔️ **Contato / Ingressos**  
-Botão fictício para compra de ingressos e localização em **Santo André – SP**.
+✔️ **Contato & Ingressos**  
+Botão fictício para compra de ingressos e localização em  
+📍 *Santo André – SP*.
 
 ---
 
@@ -67,7 +90,7 @@ Botão fictício para compra de ingressos e localização em **Santo André – 
 - Paleta de cores sombria  
 
 ### 🚀 Deploy
-- GitHub Pages (ou serviço similar)
+- GitHub Pages ou serviço similar
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -78,24 +101,24 @@ Botão fictício para compra de ingressos e localização em **Santo André – 
 
 ## 🎨 Protótipo no Figma
 
-Visualize o protótipo original do projeto:
+Confira o protótipo visual original do projeto:
 
-[![Protótipo no Figma](https://img.shields.io/badge/Figma-Protótipo%20Original-red?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0)
+[![Protótipo no Figma](https://img.shields.io/badge/Figma-Protótipo%20Original-darkred?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0)
 
 ---
 
 ## 📜 Licença
 
-Este projeto está sob a licença **MIT License**.  
+Este projeto está licenciado sob a **MIT License**.
 
-✔️ Uso permitido para fins **educacionais**  
-❌ Proibido uso comercial sem autorização
+✔️ Permitido para fins **educacionais**  
+❌ Uso comercial não autorizado
 
 ---
 
 ## 🕯️ Aviso Final
 
 > **Você entrou no Vale do Pavor.**  
-> A saída nem sempre é garantida…  
+> Nem todos encontram a saída.
 
-👁️‍🗨️ *Projeto conceitual • SENAI A. Jacob Lafer*
+👁️‍🗨️ *Projeto conceitual — SENAI A. Jacob Lafer*
