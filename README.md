@@ -1,5 +1,5 @@
-<h1 align="center">🎢 VALE DO PAVOR</h1>
-<h3 align="center">🩸 Landing Page — Parque Temático de Terror (Projeto Conceitual)</h3>
+<h1 align="center">☠ VALE DO PAVOR</h1>
+<h3 align="center"> Landing Page — Parque Temático de Terror (Projeto Conceitual)</h3>
 
 <p align="center">
   <img 
