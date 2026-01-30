@@ -7,40 +7,33 @@
     alt="Vale do Pavor - Capa"
     style="
       max-width: 100%;
-      border-radius: 18px;
-      box-shadow: 0 25px 50px rgba(0,0,0,0.65);
+      border-radius: 20px;
+      box-shadow: 0 30px 60px rgba(0,0,0,0.7);
     "
   />
 </p>
 
 <p align="center">
   <strong>⚠️ ATENÇÃO</strong><br>
-  Ao entrar no Vale do Pavor, o medo deixa de ser expectativa<br>
+  Ao cruzar os portões do <strong>Vale do Pavor</strong>, o medo deixa de ser expectativa<br>
   e passa a fazer parte da experiência.
 </p>
 
 ---
 
-<h2 align="center">☠️ O Que é o Vale do Pavor?</h2>
+<h2 align="center">☠️ Sobre o Projeto</h2>
 
 <p align="center">
-O <strong>Vale do Pavor</strong> é um <strong>parque temático de terror fictício</strong>, criado como projeto educacional por estudantes do<br>
+O <strong>Vale do Pavor</strong> é um <strong>parque temático de terror fictício</strong>, desenvolvido como projeto educacional por estudantes do<br>
 <strong>SENAI A. Jacob Lafer</strong>.
 </p>
 
-Mais do que um parque, o projeto propõe uma **experiência imersiva**, explorando o medo como entretenimento de forma segura, visualmente impactante e narrativamente envolvente.
+Mais do que uma simples landing page, este projeto foi concebido como uma **experiência imersiva**, explorando o terror psicológico, o suspense visual e a narrativa sombria como elementos centrais do design.
 
-A landing page foi desenvolvida para destacar:
+O objetivo é simular a identidade visual e a comunicação de um parque real, utilizando conceitos de **UX, UI e ambientação temática**, sempre mantendo o foco no impacto visual e na atmosfera de medo controlado.
 
-- 🎭 **Terror psicológico** — tensão constante  
-- 🎢 **Adrenalina** — experiências intensas  
-- 🌫️ **Suspense visual** — ambientação sombria  
-- 🎬 **Narrativa cinematográfica** — cada seção conta uma história  
-
-Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
-
-> ❗ Este parque **não existe na vida real**.  
-> Projeto desenvolvido exclusivamente para fins educacionais.
+> ❗ O parque **não existe na vida real**  
+> Projeto desenvolvido exclusivamente para fins **educacionais e conceituais**
 
 ---
 
@@ -52,31 +45,38 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
     alt="Mapa do Vale do Pavor"
     style="
       max-width: 95%;
-      border-radius: 18px;
-      box-shadow: 0 25px 50px rgba(0,0,0,0.65);
+      border-radius: 20px;
+      box-shadow: 0 30px 60px rgba(0,0,0,0.7);
     "
   />
 </p>
 
+<p align="center">
+Cada região do parque foi projetada para provocar sensações específicas,<br>
+indo do desconforto silencioso ao medo explícito.
+</p>
 
+---
 
 <h2 align="center">🧩 Funcionalidades da Landing Page</h2>
 
-✔️ **Atrações**  
-Apresentação visual das experiências de terror do parque.
+✔️ **Seção de Atrações**  
+Apresentação visual das principais experiências de terror do parque.
 
-✔️ **Sobre o Parque**  
-Contexto, proposta e identidade narrativa do Vale do Pavor.
+✔️ **Sobre o Vale**  
+Contextualização da proposta, narrativa e identidade do projeto.
 
-✔️ **Contato & Ingressos**  
-Botão fictício para compra de ingressos e localização simulada em  
-📍 *Santo André – SP*.
+✔️ **Ingressos (Fictício)**  
+Simulação de compra de ingressos e calendário de funcionamento.
+
+✔️ **Design Imersivo**  
+Layout pensado para reforçar o clima sombrio e cinematográfico.
 
 ---
 
 <h2 align="center">💻 Tecnologias Utilizadas</h2>
 
-<h3>🛠️ Frontend</h3>
+<h3>🛠️ Desenvolvimento Frontend</h3>
 
 - **HTML5**
 - **CSS3 (puro, sem JavaScript)**
@@ -86,23 +86,28 @@ Botão fictício para compra de ingressos e localização simulada em
 - Imagens conceituais de terror  
 - Tipografia temática  
 - Paleta de cores sombria e contrastante  
+- Inspiração em parques de terror e cinema de horror  
 
-<h3>🚀 Deploy</h3>
+<h3>🚀 Publicação</h3>
 
 - GitHub Pages ou serviço similar
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
 </p>
 
 ---
 
-<h2 align="center">🎨 Protótipo no Figma</h2>
+<h2 align="center">🎨 Protótipo & Planejamento</h2>
+
+<p align="center">
+  O projeto foi previamente estruturado e planejado no Figma.
+</p>
 
 <p align="center">
   <a href="https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0">
-    <img src="https://img.shields.io/badge/Figma-Protótipo%20Original-darkred?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-Protótipo%20Visual-darkred?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </p>
 
@@ -112,7 +117,7 @@ Botão fictício para compra de ingressos e localização simulada em
 
 <p align="center">
 Este projeto está licenciado sob a <strong>MIT License</strong>.<br>
-✔️ Uso permitido para fins <strong>educacionais</strong><br>
+✔️ Permitido para fins <strong>educacionais e acadêmicos</strong><br>
 ❌ Uso comercial não autorizado
 </p>
 
@@ -128,3 +133,4 @@ Nem todos encontram a saída.
 <p align="center">
 👁️‍🗨️ <em>Projeto conceitual — SENAI A. Jacob Lafer</em>
 </p>
+
