@@ -60,33 +60,58 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
 
 <h3 align="center">🩶 Regiões do Parque</h3>
 
+<p align="center">
 Cada área do Vale foi pensada para provocar sensações específicas — do desconforto silencioso ao medo explícito.
+</p>
 
-- 🏚️ **Mansão Assombrada**  
-  Onde o silêncio observa você.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1509248961158-e54f6934749c" width="200" style="border-radius:12px;"><br>
+      <strong>🏚️ Mansão Assombrada</strong><br>
+      Onde o silêncio observa você.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf" width="200" style="border-radius:12px;"><br>
+      <strong>🎠 Carrossel Macabro</strong><br>
+      A diversão nunca termina.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="200" style="border-radius:12px;"><br>
+      <strong>🎡 Roda Gigante do Inferno</strong><br>
+      Uma vista privilegiada do caos.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1509248961158-e54f6934749c" width="200" style="border-radius:12px;"><br>
+      <strong>🤡 Manicômio dos Palhaços</strong><br>
+      Rir é obrigatório.
+    </td>
+  </tr>
 
-- 🎠 **Carrossel Macabro**  
-  A diversão nunca termina… literalmente.
+  <tr>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1520975693416-35a4b3a97dd2" width="200" style="border-radius:12px;"><br>
+      <strong>🧠 Circo Psicótico</strong><br>
+      A sanidade não é bem-vinda.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1507668077129-56e32842fceb" width="200" style="border-radius:12px;"><br>
+      <strong>🪚 Labirinto da Motosserra</strong><br>
+      Cada curva pode ser a última.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="200" style="border-radius:12px;"><br>
+      <strong>🪦 Cemitério dos Condenados</strong><br>
+      Aqui, ninguém descansa em paz.
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9" width="200" style="border-radius:12px;"><br>
+      <strong>🧟 Pântano dos Zumbis</strong><br>
+      Algo se move sob a lama.
+    </td>
+  </tr>
+</table>
 
-- 🎡 **Roda Gigante do Inferno**  
-  Uma vista privilegiada do caos.
-
-- 🤡 **Manicômio dos Palhaços**  
-  Rir é obrigatório. Sobreviver, opcional.
-
-- 🧠 **Circo Psicótico**  
-  Um espetáculo onde a sanidade não é bem-vinda.
-
-- 🪚 **Labirinto da Motosserra**  
-  Cada curva pode ser a última decisão.
-
-- 🪦 **Cemitério dos Condenados**  
-  Aqui, ninguém descansa em paz.
-
-- 🧟 **Pântano dos Zumbis**  
-  Algo se move sob a lama… e está faminto.
-
----
 
 <h2 align="center">🧩 Funcionalidades da Landing Page</h2>
 
