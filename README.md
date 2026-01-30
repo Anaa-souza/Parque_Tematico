@@ -55,7 +55,7 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem JavaScript.
   />
 </p>
 
-<h3 align="center">🩶 Regiões do Vale do Pavor</h3>
+<h3 align="center"> Regiões do Vale do Pavor</h3>
 
 - 🏚️ **Mansão Assombrada**  
   Onde o silêncio observa você.
