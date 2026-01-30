@@ -58,59 +58,6 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
   />
 </p>
 
-<h3 align="center">Regiões do Parque</h3>
-
-<p align="center">
-Cada área do Vale foi pensada para provocar sensações específicas — do desconforto silencioso ao medo explícito.
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3daa9590-ae51-403b-8468-da1fc452f092" width="200" style="border-radius:12px;"><br>
-      <strong> Mansão Assombrada</strong><br>
-      Onde o silêncio observa você.
-    </td>
-    <td align="center">
-      <img width="350" height="350" alt="ChatGPT Image 30 de jan  de 2026, 12_12_53" src="https://github.com/user-attachments/assets/9e60eb4a-3d9f-4080-9b6f-e2ca3d32dec4" width="200" style="border-radius:12px;"><br>
-      <strong> Carrossel Macabro</strong><br>
-      A diversão nunca termina.
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="200" style="border-radius:12px;"><br>
-      <strong> Roda Gigante do Inferno</strong><br>
-      Uma vista privilegiada do caos.
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1509248961158-e54f6934749c" width="200" style="border-radius:12px;"><br>
-      <strong> Manicômio dos Palhaços</strong><br>
-      Rir é obrigatório.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1520975693416-35a4b3a97dd2" width="200" style="border-radius:12px;"><br>
-      <strong>Circo Psicótico</strong><br>
-      A sanidade não é bem-vinda.
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1507668077129-56e32842fceb" width="200" style="border-radius:12px;"><br>
-      <strong> Labirinto da Motosserra</strong><br>
-      Cada curva pode ser a última.
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" width="200" style="border-radius:12px;"><br>
-      <strong> Cemitério dos Condenados</strong><br>
-      Aqui, ninguém descansa em paz.
-    </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9" width="200" style="border-radius:12px;"><br>
-      <strong> Pântano dos Zumbis</strong><br>
-      Algo se move sob a lama.
-    </td>
-  </tr>
-</table>
 
 
 <h2 align="center">🧩 Funcionalidades da Landing Page</h2>
