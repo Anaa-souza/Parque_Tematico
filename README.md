@@ -67,7 +67,7 @@ Cada área do Vale foi pensada para provocar sensações específicas — do des
 <table align="center">
   <tr>
     <td align="center">
-      <img <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3daa9590-ae51-403b-8468-da1fc452f092" width="200" style="border-radius:12px;"><br>
+      <img <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3daa9590-ae51-403b-8468-da1fc452f092" width="200" style="border-radius:12px;"><br>
       <strong>🏚️ Mansão Assombrada</strong><br>
       Onde o silêncio observa você.
     </td>
