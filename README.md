@@ -36,7 +36,13 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem JavaScript.
 ---
 
 ## 🗺️ Mapa Oficial do Parque
-<img width="342" height="225" alt="image" src="https://github.com/user-attachments/assets/a7778cd3-f826-4c4c-bd5f-5d3bc72f3ab1" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/a7778cd3-f826-4c4c-bd5f-5d3bc72f3ab1"
+    alt="Mapa do Vale do Pavor"
+    style="max-width: 95%; border-radius: 12px;"
+  />
+</p>
 
 
 ### 🩶 Regiões do Vale do Pavor
