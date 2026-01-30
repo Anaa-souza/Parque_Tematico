@@ -72,7 +72,7 @@ Cada área do Vale foi pensada para provocar sensações específicas — do des
       Onde o silêncio observa você.
     </td>
     <td align="center">
-      <img width="250" height="250" alt="ChatGPT Image 30 de jan  de 2026, 12_12_53" src="https://github.com/user-attachments/assets/9e60eb4a-3d9f-4080-9b6f-e2ca3d32dec4" width="200" style="border-radius:12px;"><br>
+      <img width="350" height="350" alt="ChatGPT Image 30 de jan  de 2026, 12_12_53" src="https://github.com/user-attachments/assets/9e60eb4a-3d9f-4080-9b6f-e2ca3d32dec4" width="200" style="border-radius:12px;"><br>
       <strong> Carrossel Macabro</strong><br>
       A diversão nunca termina.
     </td>
