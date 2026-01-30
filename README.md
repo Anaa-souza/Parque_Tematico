@@ -7,41 +7,44 @@
     alt="Vale do Pavor - Capa"
     style="
       max-width: 100%;
-      border-radius: 16px;
-      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+      border-radius: 18px;
+      box-shadow: 0 25px 50px rgba(0,0,0,0.65);
     "
   />
 </p>
 
 <p align="center">
-  <strong>⚠️ ATENÇÃO:</strong><br>
-  Você está prestes a entrar em um lugar onde o medo é parte da experiência.
+  <strong>⚠️ ATENÇÃO</strong><br>
+  Ao entrar no Vale do Pavor, o medo deixa de ser expectativa<br>
+  e passa a fazer parte da experiência.
 </p>
 
 ---
 
-<h2 align="center">☠️ Bem-vindo ao Vale do Pavor</h2>
+<h2 align="center">☠️ O Que é o Vale do Pavor?</h2>
 
 <p align="center">
 O <strong>Vale do Pavor</strong> é um <strong>parque temático de terror fictício</strong>, criado como projeto educacional por estudantes do<br>
 <strong>SENAI A. Jacob Lafer</strong>.
 </p>
 
-Este projeto apresenta uma **landing page conceitual**, desenvolvida para explorar:
+Mais do que um parque, o projeto propõe uma **experiência imersiva**, explorando o medo como entretenimento de forma segura, visualmente impactante e narrativamente envolvente.
 
-- 🎭 Terror psicológico  
-- 🎢 Adrenalina  
-- 🌫️ Suspense visual  
-- 🎬 Ambientação cinematográfica  
+A landing page foi desenvolvida para destacar:
 
-Tudo isso utilizando **HTML5 e CSS3 puro**, sem JavaScript.
+- 🎭 **Terror psicológico** — tensão constante  
+- 🎢 **Adrenalina** — experiências intensas  
+- 🌫️ **Suspense visual** — ambientação sombria  
+- 🎬 **Narrativa cinematográfica** — cada seção conta uma história  
 
-> ❗ O parque **não existe na vida real**.  
+Tudo isso utilizando **HTML5 e CSS3 puro**, sem qualquer uso de JavaScript.
+
+> ❗ Este parque **não existe na vida real**.  
 > Projeto desenvolvido exclusivamente para fins educacionais.
 
 ---
 
-<h2 align="center">🗺️ Mapa Oficial do Parque</h2>
+<h2 align="center">🗺️ Mapa Oficial do Vale</h2>
 
 <p align="center">
   <img 
@@ -49,50 +52,52 @@ Tudo isso utilizando **HTML5 e CSS3 puro**, sem JavaScript.
     alt="Mapa do Vale do Pavor"
     style="
       max-width: 95%;
-      border-radius: 16px;
-      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+      border-radius: 18px;
+      box-shadow: 0 25px 50px rgba(0,0,0,0.65);
     "
   />
 </p>
 
-<h3 align="center"> Regiões do Vale do Pavor</h3>
+<h3 align="center">🩶 Regiões do Parque</h3>
+
+Cada área do Vale foi pensada para provocar sensações específicas — do desconforto silencioso ao medo explícito.
 
 - 🏚️ **Mansão Assombrada**  
   Onde o silêncio observa você.
 
 - 🎠 **Carrossel Macabro**  
-  A volta nunca termina.
+  A diversão nunca termina… literalmente.
 
 - 🎡 **Roda Gigante do Inferno**  
-  A melhor vista… da perdição.
+  Uma vista privilegiada do caos.
 
 - 🤡 **Manicômio dos Palhaços**  
   Rir é obrigatório. Sobreviver, opcional.
 
 - 🧠 **Circo Psicótico**  
-  Um espetáculo sem sanidade.
+  Um espetáculo onde a sanidade não é bem-vinda.
 
 - 🪚 **Labirinto da Motosserra**  
-  Cada curva pode ser a última.
+  Cada curva pode ser a última decisão.
 
 - 🪦 **Cemitério dos Condenados**  
   Aqui, ninguém descansa em paz.
 
 - 🧟 **Pântano dos Zumbis**  
-  Algo se move sob a lama.
+  Algo se move sob a lama… e está faminto.
 
 ---
 
 <h2 align="center">🧩 Funcionalidades da Landing Page</h2>
 
 ✔️ **Atrações**  
-Galeria conceitual apresentando as experiências de terror do parque.
+Apresentação visual das experiências de terror do parque.
 
 ✔️ **Sobre o Parque**  
-Descrição da proposta, narrativa e identidade do Vale do Pavor.
+Contexto, proposta e identidade narrativa do Vale do Pavor.
 
 ✔️ **Contato & Ingressos**  
-Botão fictício para compra de ingressos e localização em  
+Botão fictício para compra de ingressos e localização simulada em  
 📍 *Santo André – SP*.
 
 ---
@@ -104,11 +109,11 @@ Botão fictício para compra de ingressos e localização em
 - **HTML5**
 - **CSS3 (puro, sem JavaScript)**
 
-<h3>🎨 Design & Assets</h3>
+<h3>🎨 Design & Ambientação</h3>
 
 - Imagens conceituais de terror  
 - Tipografia temática  
-- Paleta de cores sombria  
+- Paleta de cores sombria e contrastante  
 
 <h3>🚀 Deploy</h3>
 
